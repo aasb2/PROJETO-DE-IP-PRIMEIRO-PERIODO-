@@ -45,3 +45,8 @@ João Guilherme Pereira dos Santos	jgps2
 COPYRIGHT:
 
 We do not own any rights over the material used, all the credits of the images and musics in this game goes to Avex studios and Nitendo, We are using it under the law of fair used, for non comercial and educational purposes.
+
+
+
+		"There is no glitch, there is no bug, it is all a feature"
+							She7l0ck
