@@ -1,0 +1,11 @@
+PARA COMPILAR O JOGO SEM USAR O MAKE FILE SIGA OS SEGUINTES PASSOS:
+
+NO TERMINAL DIGITE OS SEGUINTES COMANDOS:
+
+cd Desktop/ALLEGRO/InitialDrift/client
+
+gcc client.c -lm -lallegro -lallegro_image -lallegro_font -lallegro_ttf -lallegro_primitives -lallegro_audio -lallegro_acodec -lallegro_dialog -o InitialDrift
+
+./InitialDrift
+
+AVISO: Isso irá compilar o jogo mas não permitirá você jogar o modo multiplayer e talvez seja necessário copiar a biblioteca GameRules.h para a pasta client.
