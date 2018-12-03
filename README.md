@@ -30,10 +30,15 @@ AGRADECIMENTOS:
 EQUIPE SHARP KNIGHTS:
 
 Arthur Abrahao Santos Barbosa		aasb2
+
 Antonio Marcos Barbosa Melo		ambm
+
 Enildo Amazonas Magno 			eam3
+
 Fábio Willian Andrade Silva		fwas
+
 Euclides Gabriel Brito Medeiros		egbm
+
 João Guilherme Pereira dos Santos	jgps2
 
 
