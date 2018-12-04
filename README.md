@@ -9,15 +9,20 @@ Fim do primeiro periodo, sinto uma leve nostalgia de quando tudo começou, mas v
  
 	Initial Drift é um jogo inovador, diferente de todos os outros jogos de corrida que você tenha visto, esse jogo é frenético, e emocionante durante as inúmeras tecladas que você dará para chegar a linha de chegada (só tenha cuidado para não quebrar o seu teclado, pois nós não nos responsabilizaremos por isso), espero que vocês se divirtam tanto quanto nos divertimos na criação deste jogo.
 
-	Este jogo foi feito através do uso da linguagem de programação C com o auxílio da biblioteca Allegro (https://wiki.allegro.cc/) que permite o uso de algumas coisas que são exclusivas de linguagens de alto nível para linguagens de baixo nível e da biblioteca socket  criada por Lucas (https://github.com/luucasv/projetoIP) que permite que que pacotes sejam recebidos em enviados através da conexão em LAN permitindo no caso deste projeto a criação de um jogo multiplayer ultilizando multiplos computadores.
+	Este jogo foi feito através do uso da linguagem de programação C com o auxílio da biblioteca Allegro (https://wiki.allegro.cc/) que permite o uso de algumas coisas que são exclusivas de linguagens de alto nível para linguagens de baixo nível e da biblioteca socket  criada por Lucas (https://github.com/luucasv/projetoIP) que permite que que pacotes sejam recebidos e enviados através da conexão em LAN permitindo no caso deste projeto a criação de um jogo multiplayer ultilizando multiplos computadores.
 
 
 INSTRUÇÕES:
 
 Para Compilar o jogo é necessário um computador com Linux Ubuntu ou alguma variação deste (lubuntu, xubuntu, etc...).
 Abra o terminal dentro da pasta INITIAL DRIFT e use um dos seguintes comandos:
+
 make client   para iniciar o client
+
 make server   para iniciar o server
+
+make  para iniciar ambos
+
 O modo multiplayer atualmente permite que dois jogadores participem, caso a sua conexão seja no próprio computador, basta manter o IP padrão, caso contrário,
 digite ifconfig no terminal da maquina que deseja se conectar e digite os números que estão próximos ao inet.
 
@@ -44,7 +49,7 @@ João Guilherme Pereira dos Santos	jgps2
 
 COPYRIGHT:
 
-We do not own any rights over the material used, all the credits of the images and musics in this game goes to Avex studios and Nitendo, We are using it under the law of fair used, for non comercial and educational purposes.
+We do not own any rights over the material used, all the credits of the images and musics in this game goes to Avex studios and Nitendo, We are using it under the law of fair use, for non comercial and educational purposes.
 
 
 
